@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'PlayfairDisplay-Regular';
+    src: url('../Fonts/Playfair_Display/PlayfairDisplay-Regular.ttf');
+}
+@font-face{
+    font-family: 'PlayfairDisplay-Bold';
+    src: url('../Fonts/Playfair_Display/PlayfairDisplay-Bold.ttf');
+}
+@font-face{
+    font-family: 'PlayfairDisplay-Italic';
+    src: url('../Fonts/Playfair_Display/PlayfairDisplay-Italic.ttf');
+}
+@font-face{
+    font-family: 'Sintony-Bold';
+    src: url('../Fonts/Sintony/Sintony-Bold.ttf');
+}
+@font-face{
+    font-family: 'Sintony-Regular';
+    src: url('../Fonts/Sintony/Sintony-Regular.ttf');
+}
