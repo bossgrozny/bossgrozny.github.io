@@ -1,0 +1,98 @@
+body {
+  background-color: black;
+}
+
+.random_window .top {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.random_window .top h1 {
+  font-size: 38px;
+  color: white;
+  font-family: 'Arial';
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+.random_window .bottom input {
+  border: none;
+  background-color: transparent;
+  border: 1px solid crimson;
+  padding: 12px 8px 14px 10px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  color: whitesmoke;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.event {
+  margin-top: 50px;
+}
+
+.event .button-event {
+  background-color: transparent;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  border: 1px solid purple;
+}
+
+.event .button-event i.fas {
+  font-size: 64px;
+  color: purple;
+}
+
+.result {
+  margin-top: 50px;
+}
+
+.result .left p {
+  font-size: 22px;
+  color: blueviolet;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.result .left button {
+  display: block;
+  border: 1px solid royalblue;
+  text-transform: uppercase;
+  font-size: 18px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.result .right p {
+  font-size: 22px;
+  color: blueviolet;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+}
+
+.result .right button {
+  display: block;
+  border: 1px solid royalblue;
+  text-transform: uppercase;
+  font-size: 18px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.result .btn-clone {
+  display: none;
+}
+
+.btn-clone-add {
+  display: block;
+}
+
+.button_audio {
+  opacity: 0;
+}
